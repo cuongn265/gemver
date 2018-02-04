@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'gemver'
+puts Gemver.run(ARGV[0])
