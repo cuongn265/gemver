@@ -21,6 +21,7 @@ Or install it yourself as:
 ## Usage
 
 Determine which gem you want to add to Gemfile (example: cocoon)
+
     $ gemver cocoon
 
 That's it!
